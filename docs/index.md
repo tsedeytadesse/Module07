@@ -15,7 +15,7 @@ The pickle.dump(x, y) function is used it save (dump) data in a binary file, whe
 #### Figure 2: use of pickle.dump() function
 ### Load in Pickling
 As data is saved using picking, it can also be read by using the pickle.load(x) function, where x is the file where the data is contained. To load data in pickle mode, first the file is opened in read mode, the file is read using the pickle.load() function, and then the file is closed. The ‘rb’ mode refers to reading of the data from a binary file. Figure 3 demonstrate the lines of code I used in my script to load data from a file.
-![use of pickle.load() function](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%203.png "use of pickle.load() function")
+![use of pickle.load() function](Assignment07_Images/07%20Figure%203.png "use of pickle.load() function")
 #### Figure 3: use of pickle.load() function
 ## Presentation (IO Class of My Script)
 The IO class of my script outputs the menu of options for my script and the explanation of the range where the BMI of a user might fall into, and it takes input to choose what the user would like to perform as well as the input of their weight and height data. Figure 4 shows the IO class of the script.
