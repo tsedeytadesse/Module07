@@ -11,7 +11,7 @@ Picking allows us to save data to a file and read data from a file without losin
 #### Figure 1: importing pickle module
 ### Dump in Pickling
 The pickle.dump(x, y) function is used it save (dump) data in a binary file, where x is the data to be saved, and y is where the data is being saved. Figure 2 below demonstrate how the function is used in my BMI script. The file that contains the data is opened in append mode, the new data is added, and then the file is closed. The new data is added as is without any formatting. The ‘ab’ mode refers to the appending of the data in binary mode.
-![use of pickle.dump() function](https://tsedeytadesse.github.io/Module07/docs/Assignment07_Images/07%20Figure%202.png "use of pickle.dump() function")
+![use of pickle.dump() function](https://tsedeytadesse.github.io/Module07/07%20Figure%202.png "use of pickle.dump() function")
 #### Figure 2: use of pickle.dump() function
 ### Load in Pickling
 As data is saved using picking, it can also be read by using the pickle.load(x) function, where x is the file where the data is contained. To load data in pickle mode, first the file is opened in read mode, the file is read using the pickle.load() function, and then the file is closed. The ‘rb’ mode refers to reading of the data from a binary file. Figure 3 demonstrate the lines of code I used in my script to load data from a file.
