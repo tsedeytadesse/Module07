@@ -19,6 +19,11 @@ As data is saved using picking, it can also be read by using the pickle.load(x) 
 #### Figure 3: use of pickle.load() function
 ## Presentation (IO Class of My Script)
 The IO class of my script outputs the menu of options for my script and the explanation of the range where the BMI of a user might fall into, and it takes input to choose what the user would like to perform as well as the input of their weight and height data. Figure 4 shows the IO class of the script.
+![Presentation – menu of options](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%204-1.png "Presentation – menu of options")
+#### Figure 4-1: Presentation – menu of options
+![Presentation – user input and BMI range output](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%204-2.png "Presentation – user input and BMI range output")
+![Presentation – user input and BMI range output](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%204-2-2.png "Presentation – user input and BMI range output")
+#### Figure 4-2: Presentation – user input and BMI range output
 
 Note that in the functions input_weight_height_metric and input_weight_height_imperial, the user input to be taken are floats. The user intentionally or unintentionally might input a string, which leads to a type error message and a sudden ending of the program. To combat unexpected ending of the program, we introduce exception handling to the script.
 ## Exception Handling
