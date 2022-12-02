@@ -59,7 +59,7 @@ Figure 6-3 demonstrates when an error is handled and the program continues to ru
 Though the file is saved in the same folder as my script, (See Figure 8), it cannot be opened with a text editor. Figure 9 shows the binary data opened in PyCharm. Though, the file could be opened, it cannot be read as plain text.
 ![Binary file in the same folder as script](Assignment07_Images/07%20Figure%208.png "Binary file in the same folder as script")
 #### Figure 8: Binary file in the same folder as script
-![Binary file opened in PyCharm](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%209.png "Binary file opened in PyCharm")
+![Binary file opened in PyCharm](Assignment07_Images/07%20Figure%209.png "Binary file opened in PyCharm")
 #### Figure 9: Binary file opened in PyCharm
 ## Summary
 Through the class notes, the text book, and the research I have done on my own, I learned about pickling and exception handling in Python. I also wrote simple math script that demonstrate how to add and load data by using the pickle module and exception error messages by handling them in various ways. Pickle.dump() and pickle.load() are the two main functions used to add data to and the read data from a file, respectively. The try statement along with the except clause are used to customize and handle error messages so that the program runs to completion even though errors occur in the program.
