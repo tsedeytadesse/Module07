@@ -43,21 +43,21 @@ The exception handling works the same way if the user decides to use the imperia
 #### Figure 5-3: main – try statement - except clause (imperial)
 
 The rest of the script is shown in Figure 5-4, and it is for the user if they choose option 3 or 4 on the menu.
-![main – the rest of the code](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%205-4.png "main – the rest of the code")
+![main – the rest of the code](Assignment07_Images/07%20Figure%205-4.png "main – the rest of the code")
 #### Figure 5-4: main – the rest of the code
 Figure 6 shows the script in Figure 5 run in PyCharm. And Figure 7 shows the script run in the Terminal.
-![BMI script run in PyCharm](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%206-1.png "BMI script run in PyCharm")
+![BMI script run in PyCharm](Assignment07_Images/07%20Figure%206-1.png "BMI script run in PyCharm")
 #### Figure 6-1: BMI script run in PyCharm
-![BMI script run in PyCharm (2)](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%206-2.png "BMI script run in PyCharm (2)")
+![BMI script run in PyCharm (2)](Assignment07_Images/07%20Figure%206-2.png "BMI script run in PyCharm (2)")
 #### Figure 6-2: BMI script run in PyCharm (2)
 Figure 6-3 demonstrates when an error is handled and the program continues to run.
-![exception handled](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%206-3.png "exception handled")
+![exception handled](Assignment07_Images/07%20Figure%206-3.png "exception handled")
 #### Figure 6-3: exception handled
-![BMI script run in Terminal](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%207-1.png "BMI script run in Terminal")
+![BMI script run in Terminal](Assignment07_Images/07%20Figure%207-1.png "BMI script run in Terminal")
 ![BMI script run in Terminal](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%207-2.png "BMI script run in Terminal")
 #### Figure 7: BMI script run in Terminal
 Though the file is saved in the same folder as my script, (See Figure 8), it cannot be opened with a text editor. Figure 9 shows the binary data opened in PyCharm. Though, the file could be opened, it cannot be read as plain text.
-![Binary file in the same folder as script](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%208.png "Binary file in the same folder as script")
+![Binary file in the same folder as script](Assignment07_Images/07%20Figure%208.png "Binary file in the same folder as script")
 #### Figure 8: Binary file in the same folder as script
 ![Binary file opened in PyCharm](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%209.png "Binary file opened in PyCharm")
 #### Figure 9: Binary file opened in PyCharm
