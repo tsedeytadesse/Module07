@@ -54,7 +54,7 @@ Figure 6-3 demonstrates when an error is handled and the program continues to ru
 ![exception handled](Assignment07_Images/07%20Figure%206-3.png "exception handled")
 #### Figure 6-3: exception handled
 ![BMI script run in Terminal](Assignment07_Images/07%20Figure%207-1.png "BMI script run in Terminal")
-![BMI script run in Terminal](https://github.com/tsedeytadesse/Module07/blob/main/docs/Assignment07_Images/07%20Figure%207-2.png "BMI script run in Terminal")
+![BMI script run in Terminal](Assignment07_Images/07%20Figure%207-2.png "BMI script run in Terminal")
 #### Figure 7: BMI script run in Terminal
 Though the file is saved in the same folder as my script, (See Figure 8), it cannot be opened with a text editor. Figure 9 shows the binary data opened in PyCharm. Though, the file could be opened, it cannot be read as plain text.
 ![Binary file in the same folder as script](Assignment07_Images/07%20Figure%208.png "Binary file in the same folder as script")
